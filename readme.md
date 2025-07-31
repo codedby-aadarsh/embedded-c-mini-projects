@@ -12,8 +12,7 @@
 - so this isnt very much advanced project, as the name suggest we are trying to cotrol the led with the help of the push button but the twist with not using the arduino digital write and read function which kind of abstract away the low level details and is kind of too slow than using the pure c one.
 
 - watch the demo video of the mini project and how it works
-
-[demo_video](./demo_video.webm)
+[demo_video](./demo_video.mp4)
 
 ---
 #### pin out
