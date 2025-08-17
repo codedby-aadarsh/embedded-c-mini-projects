@@ -11,3 +11,6 @@ platformio.ini
 include/
 lib/
 test/
+
+diagram.json
+wokwi.toml

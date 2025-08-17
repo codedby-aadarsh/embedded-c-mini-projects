@@ -1,7 +1,0 @@
-[wokwi]
-version = 1
-# Point at your latest build output:
-elf = ".pio/build/esp32dev/firmware.elf"
-
-# (Optional) you can also specify a HEX if you prefer:
-firmware = ".pio/build/esp32dev/firmware.bin"
