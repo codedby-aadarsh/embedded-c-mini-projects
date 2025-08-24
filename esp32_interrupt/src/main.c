@@ -36,7 +36,7 @@ void app_main() {
     gpio_isr_handler_add(push_button,gpio_isr_handler,NULL);
     gpio_set_level(led_button,0);
     while(1){
-        vTaskDelay(10);
+        vTaskDelay(pdMS_TO_TICKS(1000));
     }
 
 
