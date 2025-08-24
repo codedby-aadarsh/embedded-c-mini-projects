@@ -1,0 +1,16 @@
+# Ignore .pio directory
+.pio/
+
+# Ignore everything inside .vscode
+.vscode/
+
+# Ignore the main config file
+platformio.ini
+
+# Ignore directories
+include/
+lib/
+test/
+
+diagram.json
+wokwi.toml
